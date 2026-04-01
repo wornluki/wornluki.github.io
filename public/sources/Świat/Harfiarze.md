@@ -1,0 +1,1 @@
+Sieć agentów działających dla równowagi i dobra świata

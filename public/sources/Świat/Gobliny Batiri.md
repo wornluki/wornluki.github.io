@@ -1,0 +1,1 @@
+Plemię złych goblinów w drewnianych maskach zamieszkujących Chult. Czasem męczą mieszkańców [[Port Nyanzaru]]
