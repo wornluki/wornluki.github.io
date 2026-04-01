@@ -1,9 +1,9 @@
 {
-  "sourceDir": "",
-  "indexFilePath": "",
-  "repositoryUrl": "",
-  "isActivated": false,
-  "version": "",
+  "sourceDir": "RPG/DND Tomb of Anihilation",
+  "indexFilePath": "RPG/DND Tomb of Anihilation/Index.md",
+  "repositoryUrl": "https://github.com/wornluki/wornluki.github.io.git",
+  "isActivated": true,
+  "version": "0.1.1",
   "isEnableComments": false,
   "repo": "",
   "theme": ""
