@@ -1,0 +1,1 @@
+Prawdopodobnie znajduje się tam skarb. Może jakieś informacje o [[Pożeracz Dusz]]

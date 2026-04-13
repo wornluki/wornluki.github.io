@@ -8,3 +8,6 @@ Zabudowa ceglana. Kolorowe domki.
 [[Karczmarz z Portu Nyanzaru]]
 
 ## Ciekawe miejsca
+- Świątynia Tymory - zachodnia część miasta
+- Kupcy na północy
+- Zawody dinozaurów w dolnym mieście
