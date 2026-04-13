@@ -5,7 +5,7 @@ Dinozaury chodzące po ulicy
 Zabudowa ceglana. Kolorowe domki.
 
 ## NPC
-[[Karczmarz z Portu Nyanzaru]]
+[[
 
 ## Ciekawe miejsca
 - Świątynia Tymory - zachodnia część miasta

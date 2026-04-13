@@ -1,8 +1,10 @@
 ## Sesje
 [[Sesja 1 - 28-03-2026]]
+[[Sesja 2 - 10-04-2026]]
 ## Miejsca
 [[Chult]]
 [[Port Nyanzaru]]
+[[Needle's Bones]]
 ## Postaci
 [[Syndra Silvane]]
 [[Karczmarz z Portu Nyanzaru]]
