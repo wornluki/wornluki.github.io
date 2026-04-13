@@ -7,16 +7,18 @@
 [[Needle's Bones]]
 ## Postaci
 [[Syndra Silvane]]
-[[Karczmarz z Portu Nyanzaru]]
+[[Hedon]]
 ## Zadania
 ### Aktualne
 [[Odnaleźć pożeracz dusz na chult]]
-[[Odnaleźć przewodnika po półwyspie Chult]]
+[[Odnaleźć Skarb na Neddle's Bones]]
 ### Ukończone
 [[Oczyszczenie piwny ze szczurów]]
+[[Odnaleźć przewodnika po półwyspie Chult]]
 ## Świat
 [[Pożeracz Dusz]]
 [[Czerwoni czarodzieje z Thai]]
 [[Harfiarze]]
 [[Klątwa Śmierci]]
 [[Gobliny Batiri]]
+[[Wojownicy Czerwonej Pięści]]
