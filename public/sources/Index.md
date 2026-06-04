@@ -3,6 +3,8 @@
 [[Sesja 2 - 10-04-2026]]
 [[Sesja 3 - 24-04-2026]]
 [[Sesja 4 - 7-05-2026]]
+[[Sesja 5 - 22-05-2026]]
+[[Sesja 6 - 03-06-2026]]
 ## Miejsca
 [[Chult]]
 [[Port Nyanzaru]]
