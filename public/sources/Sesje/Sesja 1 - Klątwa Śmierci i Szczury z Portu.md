@@ -4,6 +4,7 @@ tags:
 Lokacje:
   - "[[Port Nyanzaru]]"
   - "[[Neverwinter]]"
+Data: 28-03-2026
 ---
 ## Podsumowanie
 Rozpoczęliśmy naszą przygodę w Neverwinter, gdzie zgłosiliśmy się do starszej kobiety imieniem [[Syndra Silvane]]. To od niej dowiedzieliśmy się o artefakcie **[[Pożeracz Dusz]]**, odpowiedzialnym za tajemniczą Klątwę Śmierci.

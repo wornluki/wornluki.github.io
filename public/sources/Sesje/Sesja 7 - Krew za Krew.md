@@ -1,3 +1,5 @@
+Data: 11-06-20261
+
 Po powrocie do Portu Nyanzaru drużyna po raz pierwszy od wielu dni mogła naprawdę odpocząć. Długa podróż przez dżunglę, śmierć Winsysaa i Zalkina oraz zdrada Jabala odcisnęły piętno na wszystkich. Ustaliliśmy, że kolejnym celem będzie ponowna wyprawa do Ognistego Palucha, jednak zanim wyruszymy, chcieliśmy znaleźć lepszy środek transportu do poruszania się po Chult.
 
   

@@ -2,6 +2,7 @@
 tags:
   - quest/accepted
 locations:
+Data: 10-04-2026
 ---
 ## Podsumowanie
 Dowiedzieliśmy się od karczmarza [[Hedon]], że jeden z jego znajomych — **[[Wakanda Otamu]]** — przebywa w Świątyni Tymory. Wspomniał również o odbywających się w dolnym mieście **wyścigach dinozaurów**.

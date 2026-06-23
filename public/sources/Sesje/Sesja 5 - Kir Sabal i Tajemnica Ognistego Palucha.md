@@ -1,4 +1,4 @@
-
+Data: 22-05-2026
 
 Wyruszyliśmy z Needle Bones w kierunku Kir Sabal. 
 

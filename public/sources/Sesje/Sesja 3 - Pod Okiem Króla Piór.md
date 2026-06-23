@@ -1,6 +1,7 @@
 ---
 tags:
 locations:
+Data: 24-04-2026
 ---
 ## Podsumowanie
 Wyruszyliśmy "pożyczonym" statkiem do [[Needle's Bones]]. Wypływając z portu popłynęliśmy na północ aby wzdłuż wybrzeża dopłytnąć do zatoki "Kitchers Inlet".

@@ -1,3 +1,5 @@
+Data: 05-06-2026
+
 Po opuszczeniu Kir Sabal dotarliśmy do wybrzeża, gdzie zostawiliśmy nasz statek. Liczyliśmy na szybki powrót do Portu Nyanzaru, jednak po przybyciu na miejsce odkryliśmy, że statek zniknął.
 Nie mając innego wyjścia, postanowiliśmy kontynuować misję powierzoną nam przez Arakokra i wyruszyć w kierunku Ognistego Palucha. Nasza droga prowadziła przez niebezpieczny Przesmyk Muahaha.
 
