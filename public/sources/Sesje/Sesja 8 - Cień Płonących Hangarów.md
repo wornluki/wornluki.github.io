@@ -6,7 +6,7 @@ Na miejscu szybko pojawiły się kolejne problemy. Uświadomiliśmy sobie, że o
 
 W tym samym czasie również Wakanda przypomniał sobie o pozostawionym pod hangarami palcu Milo. Razem z Wakanda postanowili go odzyskać. Po drodze Storsark namówił maga na kilka łyków dla odwagi, co znacząco wpłynęło na późniejszy przebieg wydarzeń.
 
-Pod spalonym magazynem zgromadził się tłum strażników i gapiów. Chcąc odwrócić ich uwagę, Storsark przekonał Wakande do podpalenia sąsiedniego budynku kulą ognia. Plan okazał się katastrofalny w skutkach. Straż natychmiast zatrzymała czarodzieja jako sprawcę podpalenia, a Storsark mimo prób przekonywania również trafił do aresztu.
+Pod spalonym magazynem zgromadził się tłum strażników i gapiów. Chcąc odwrócić ich uwagę, Storsark przekonał Wakande do podpalenia sąsiedniego budynku kulą ognia. Plan okazał się katastrofalny w skutkach. Straż zatrzymała czarodzieja jako sprawcę podpalenia po tym jak poszedł sam bo miał "sprytny" plan. Mimo prób przekonywania straży przez Storsarka, że czarodziej jest niewinny sam również trafił do aresztu.
 
 W więzieniu Storsark spotkał Ślimaka oraz jego nowego znajomego – ogra Chuta. Dzięki wcześniejszym opowieściom goblina ogr darzył go szacunkiem. W końcu Chut wybił dziurę w ścianie celi, umożliwiając ucieczkę pozostałym więźniom. Sam jednak pozostał za kratami.
 
