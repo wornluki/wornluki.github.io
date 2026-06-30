@@ -7,6 +7,7 @@
 [[Sesja 6 - Cena Głupoty]]
 [[Sesja 7 - Krew za Krew]]
 [[Sesja 8 - Cień Płonących Hangarów]]
+[[Sesja 9 – W Gnieździe Pterafolków]]
 ## Miejsca
 [[Chult]]
 [[Port Nyanzaru]]
