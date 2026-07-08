@@ -7,7 +7,7 @@ Najpierw zaatakowały nas czterorękie małpy wraz z hordami Zombie. Z małpami 
 
 Następnie dotarliśmy do Kir Sabal – osady Arakokra położonej wysoko na klifie. Dzięki pomocy drużyny w asekuracji Milo (nie bez problemu i wymęczenia) wspiął się na szczyt.
 
-Na miejscu zostaliśmy przyjęci przez Arakokra i zaprowadzeni do ich przywódczyni. Dowiedzieliśmy się, że jak im pomożemy to zapoznają nas z Wyrocznią, która może coś wiedzieć o Pożeraczu Snów. Przywódczyni zgodziła się nam pomóc, jeśli wcześniej odnajdziemy jej zaginioną córkę. Otrzymaliśmy wskazówki dotyczące Ognistego Palucha – ogromnego kamiennego obelisku, do którego się wybrała aby kogoś uratować (?).
+Na miejscu zostaliśmy przyjęci przez Arakokra i zaprowadzeni do ich przywódczyni (ignatoa). Dowiedzieliśmy się, że jak im pomożemy to zapoznają nas z Wyrocznią, która może coś wiedzieć o Pożeraczu Snów. Przywódczyni zgodziła się nam pomóc, jeśli wcześniej odnajdziemy jej zaginioną córkę (vaxanate). Otrzymaliśmy wskazówki dotyczące Ognistego Palucha – ogromnego kamiennego obelisku, do którego się wybrała aby kogoś uratować (?).
 
 Spędziliśmy noc w Kir Sabal, odpoczywając i uzupełniając zapasy. Następnego dnia z samego rana jeszcze poszliśmy z Winsyntem do Szechowej trochę porozmawiać. Nie do końca ta rozmowa poszła zgodnie z planem, dużo się nie dowiedzieliśmy, wyrzucili nas stamtąd.
 

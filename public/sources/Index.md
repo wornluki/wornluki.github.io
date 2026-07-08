@@ -8,6 +8,7 @@
 [[Sesja 7 - Krew za Krew]]
 [[Sesja 8 - Cień Płonących Hangarów]]
 [[Sesja 9 – W Gnieździe Pterafolków]]
+[[Sesja 10 – Negocjacje z Pterafolkami]]
 ## Miejsca
 [[Chult]]
 [[Port Nyanzaru]]
