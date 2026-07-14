@@ -9,6 +9,7 @@
 [[Sesja 8 - Cień Płonących Hangarów]]
 [[Sesja 9 – W Gnieździe Pterafolków]]
 [[Sesja 10 – Negocjacje z Pterafolkami]]
+[[Sesja 11 – Druid, Galleon i Wąż Morski]]
 ## Miejsca
 [[Chult]]
 [[Port Nyanzaru]]
