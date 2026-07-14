@@ -6,7 +6,7 @@ Nikt z drużyny nie wiedział jednak, że tej samej nocy Rohlian dopuścił się
 
 Podczas porannej narady Ślimak poruszył temat swojego przyjaciela Chuta, który odsiadywał wyrok w więzieniu. Goblin chciał go odbić, jednak Milo przekonał go, że znacznie rozsądniej będzie najpierw porozmawiać ze strażnikami. Razem z Amarą odwiedziliśmy więzienie, gdzie dowiedzieliśmy się, że Chutowi pozostały jeszcze cztery miesiące kary. Strażnicy zaprowadzili nas nawet do jego celi. Widząc, jak ciężko był pilnowany, szybko doszliśmy do wniosku, że próba odbicia byłaby czystym szaleństwem. Przy okazji zauważyliśmy również list gończy wystawiony za Ślimakiem, co tylko utwierdziło nas w przekonaniu, że goblin powinien trzymać się z dala od płomiennej pięści.
 
-W tym samym czasie pozostali członkowie drużyny rozpoczęli poszukiwania przewodnika. Dzięki znajomości poprzedniej nocy Storsarka z przemytnikiem Zbyszkiem udało nam się poznać druida Ksanasha i jego kolegę Kupalupa. Od pierwszego spotkania sprawiał bardzo dobre wrażenie i za rozsądną cenę zgodził się poprowadzić nas przez dżunglę.
+W tym samym czasie pozostali członkowie drużyny rozpoczęli poszukiwania przewodnika. Dzięki znajomości poprzedniej nocy Storsarka z przemytnikiem Zbyszkiem udało nam się poznać druida Quawasha i jego kolegę Kupalue. Od pierwszego spotkania sprawiał bardzo dobre wrażenie i za rozsądną cenę zgodził się poprowadzić nas przez dżunglę.
 
 Równolegle rozwiązaliśmy problem transportu. Odnaleźliśmy krasnoluda związanego z kradzieżą statku z początku naszej wyprawy. Dzięki sprytowi Amary zdobyliśmy od niego hasło pozwalające legalnie "wypożyczyć" nieużywany statek z portu. Początkowo planowaliśmy podróż niewielką łodzią, jednak po dłuższej dyskusji uznaliśmy, że znacznie lepiej będzie przejąć duży galeon z dwoma małymi łodziami. Zamierzaliśmy opłynąć wybrzeże Chult i dopłynąć do ruin pod Kir Sabal od strony morza, wykorzystując mniejsze łodzie jako transport po rzece.
 
@@ -26,10 +26,10 @@ Tak zakończyła się kolejna sesja. Udało nam się zdobyć nowego przewodnika,
 
 ## Ważne NPC
 
-### **Ksanash**
+**Quawasha**
 - Druid i nowy przewodnik drużyny.
 - Zgodził się poprowadzić nas przez Chult za 25 sztuk złota.
-- Ma towarzysza vegepigmeya - KupaLupa
+- Ma towarzysza vegepigmeya - Kupalue
 
 ### **Chut**
 - Ogr przebywający w więzieniu Portu Nyanzaru.
@@ -38,7 +38,7 @@ Tak zakończyła się kolejna sesja. Udało nam się zdobyć nowego przewodnika,
 
 ### **Zbyszek**
 - Przemytnik poznany przez Storsarka.
-- Polecił nam Ksanasha jako przewodnika.
+- Polecił nam Quawasha jako przewodnika.
 - Wie, że ktoś szuka Milo
 
 ---
@@ -56,6 +56,6 @@ Tak zakończyła się kolejna sesja. Udało nam się zdobyć nowego przewodnika,
 - Nieudana próba okradzenia Hedona.
 - Mroczny rytuał Rohliana związany z Asmodeuszem.
 - Rezygnacja z odbicia Chuta.
-- Poznanie przewodnika Ksanasha.
+- Poznanie przewodnika Quawasha.
 - Zdobycie galeonu i rozpoczęcie podróży.
 - Spotkanie z morskim wężem żądającym haraczu.
