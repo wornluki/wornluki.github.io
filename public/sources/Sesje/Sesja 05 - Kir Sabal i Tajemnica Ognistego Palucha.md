@@ -1,0 +1,29 @@
+Data: 22-05-2026
+
+Wyruszyliśmy z Needle Bones w kierunku Kir Sabal. 
+
+Droga nie była łatwa:
+Najpierw zaatakowały nas czterorękie małpy wraz z hordami Zombie. Z małpami poradziliśmy sobie bez większych problemów (Amara prawie zginęła), natomiast nieumarłych było za dużo. Przeczekaliśmy na skałach i drzewach kilka długich godzin do czasu aż większość się rozeszła.
+
+Następnie dotarliśmy do Kir Sabal – osady Arakokra położonej wysoko na klifie. Dzięki pomocy drużyny w asekuracji Milo (nie bez problemu i wymęczenia) wspiął się na szczyt.
+
+Na miejscu zostaliśmy przyjęci przez Arakokra i zaprowadzeni do ich przywódczyni (ignatoa). Dowiedzieliśmy się, że jak im pomożemy to zapoznają nas z Wyrocznią, która może coś wiedzieć o Pożeraczu Snów. Przywódczyni zgodziła się nam pomóc, jeśli wcześniej odnajdziemy jej zaginioną córkę (vaxanate). Otrzymaliśmy wskazówki dotyczące Ognistego Palucha – ogromnego kamiennego obelisku, do którego się wybrała aby kogoś uratować (?).
+
+Spędziliśmy noc w Kir Sabal, odpoczywając i uzupełniając zapasy. Następnego dnia z samego rana jeszcze poszliśmy z Winsyntem do Szechowej trochę porozmawiać. Nie do końca ta rozmowa poszła zgodnie z planem, dużo się nie dowiedzieliśmy, wyrzucili nas stamtąd.
+
+Na pożegnanie Arakokra wręczyły nam złoty róg, dzięki któremu będziemy mogli wezwać ich pomoc lub łatwiej odnaleźć drogę powrotną.
+Następnego dnia opuściliśmy Kir Sabal.
+
+Ruszyliśmy w stronę Portu Nyanzaru. Po drodze napadły nas latające małpy, z którymi sobie poradziliśmy.
+
+Sesja zakończyła się dojściem do plaży jednak wciąż nie wiemy czy nasz statek jest tam gdzie go zostawiliśmy.
+
+## Ważne NPC
+
+**Przywódczyni Kir Sabal**
+- Przyjęła nas w swojej osadzie.
+- Obiecała pomoc w zamian za odnalezienie zaginionej córki.
+## Ważne Lokacje
+
+**Kir Sabal** - Osada Arakokra położona na szczycie wysokiego klifu.
+**Ognisty Paluch** - Ogromny kamienny obelisk będący naszym następnym celem wyprawy
