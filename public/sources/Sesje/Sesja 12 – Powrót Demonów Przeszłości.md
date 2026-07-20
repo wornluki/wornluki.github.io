@@ -34,7 +34,7 @@ Sylwetka Zombie Zalkina.
 ### **Fort Płomiennej Pięści**
 - Minęliśmy go podczas rejsu.
 - Zdecydowaliśmy się nie zatrzymywać.
-### **Ukryta przystań**
+### **Niezbyt ukryta przystań**
 - Miejsce, w którym pozostawiliśmy galeon.
 - Dalej ruszyliśmy mniejszą łodzią.
 ### **Most Mua-ha-ha**
