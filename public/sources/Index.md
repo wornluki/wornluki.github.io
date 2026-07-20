@@ -10,6 +10,7 @@
 [[Sesja 9 – W Gnieździe Pterafolków]]
 [[Sesja 10 – Negocjacje z Pterafolkami]]
 [[Sesja 11 – Druid, Galleon i Wąż Morski]]
+[[Sesja 12 – Powrót Demonów Przeszłości]]
 ## Miejsca
 [[Chult]]
 [[Port Nyanzaru]]
