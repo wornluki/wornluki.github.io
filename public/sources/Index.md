@@ -12,6 +12,7 @@
 [[Sesja 11 – Druid, Galleon i Wąż Morski]]
 [[Sesja 12 – Powrót Demonów Przeszłości]]
 [[Sesja 13– Ogród trzech zagubionych dusz]]
+[[Sesja 14 - Upadek starej drużyny]]
 ## Miejsca
 [[Chult]]
 [[Port Nyanzaru]]
