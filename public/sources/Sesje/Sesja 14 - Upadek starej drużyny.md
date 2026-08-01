@@ -26,13 +26,13 @@ Przed opuszczeniem ogrodów Zolkara przekazała nam jeszcze najważniejszą info
 Z ciężkimi sercami wyruszyliśmy do Kir Sabal, aby przekazać Arakokra wiadomość o wydarzeniach w Nyanzallore oraz o wcześniejszym porozumieniu zawartym z Pterafolkami. Spotkanie nie przebiegło jednak pomyślnie. Przywódczyni Kir Sabal była wściekła. Nie obchodziły jej nasze straty ani to, że rozwiązaliśmy problem Zolkary. Liczyło się tylko jedno – wróciliśmy bez jej córki. Gdy usłyszała, że prowadziliśmy rozmowy z Pterafolkami, była bliska wyrzucenia nas z osady, a nawet zrzucenia ze skarpy.
 
 Wtedy do wydarzeń wkroczyli nowi podróżnicy.
-Pierwszym był Roberto – ekscentryczny tabaxi i kolekcjoner zapachów, który każdą interesującą woń zamykał w niewielkich fiolkach. Towarzyszyła mu jego siostra Elara – cicha druidka, porozumiewająca się głównie telepatycznie. Trzecim był Harkal, drowi bard o znacznie spokojniejszym usposobieniu. Nowi przybysze pomogli uspokoić sytuację i przekonali przywódczynię Kir Sabal, by dała drużynie jeszcze jedną szansę. Ustaliliśmy, że wspólnie wyruszymy ponownie do Ognistego Palucha i spróbujemy odnaleźć zaginioną księżniczkę Arakokra.
+Pierwszym był Roberto – ekscentryczny tabaxi i kolekcjoner zapachów, który każdą interesującą woń zamykał w niewielkich fiolkach. Towarzyszyła mu jego siostra Elara – cicha druidka, porozumiewająca się głównie telepatycznie. Trzecim był Hacral, drowi bard o znacznie spokojniejszym usposobieniu. Nowi przybysze pomogli uspokoić sytuację i przekonali przywódczynię Kir Sabal, by dała drużynie jeszcze jedną szansę. Ustaliliśmy, że wspólnie wyruszymy ponownie do Ognistego Palucha i spróbujemy odnaleźć zaginioną księżniczkę Arakokra.
 
-Rano mieliśmy okazję lepiej poznać nowych towarzyszy. Roberto już podczas pierwszego spotkania wylał Storsarkowi piwo na kolana, próbując jedynie pobrać próbkę jego zapachu do swojej kolekcji. Choć początek był dość niezręczny, szybko udało im się dojść do porozumienia. Harkal bez problemu odnalazł się wśród drużyny. Elara natomiast pozostawała wycofana, rozmawiając głównie telepatycznie z bratem i uważnie obserwując wszystkich wokół.
+Rano mieliśmy okazję lepiej poznać nowych towarzyszy. Roberto już podczas pierwszego spotkania wylał Storsarkowi piwo na kolana, próbując jedynie pobrać próbkę jego zapachu do swojej kolekcji. Choć początek był dość niezręczny, szybko udało im się dojść do porozumienia. Hacral bez problemu odnalazł się wśród drużyny. Elara natomiast pozostawała wycofana, rozmawiając głównie telepatycznie z bratem i uważnie obserwując wszystkich wokół.
 
 Tak zakończyła się jedna z najbardziej tragicznych sesji całej kampanii. Straciliśmy Amarę, Milo został porwany przez demona, Rohlian odszedł własną drogą, a Ślimak pozostał skamieniały pod opieką Królowej Zolkary. Jednocześnie poznaliśmy położenie legendarnego Omu i zyskaliśmy nowych sprzymierzeńców.
 
-Przed nami kolejna wyprawa do Ognistego Palucha. Tym razem wyruszą Arnul, Storsark, Bogdan, Roberto, Elara oraz Harkal.
+Przed nami kolejna wyprawa do Ognistego Palucha. Tym razem wyruszą Arnul, Storsark, Olgiert, Roberto, Elara oraz Hacral.
 
   
 
@@ -44,7 +44,7 @@ Królowa Zolkara
 - Wskazała drużynie położenie starożytnego Omu.
 - Zgodziła się zaopiekować skamieniałym Ślimakiem.
 
-Bogdan
+Olgiert
 
 - Kleryk uwolniony z kamiennej klątwy podczas walki z demonem.
 - Dołączył do drużyny po wydarzeniach w Nyanzallore.
@@ -60,7 +60,7 @@ Elara
 - Siostra Roberto.
 - Cicha druidka komunikująca się głównie telepatycznie.
 
-Harkal
+Hacral
 
 - Drowi bard.
 - Pomógł załagodzić konflikt w Kir Sabal.
@@ -93,16 +93,12 @@ Omu
 
 Najważniejsze wydarzenia
 
-- Uwolnienie Bogdana z kamiennej klątwy.
-- Pokonanie demona kontrolującego Zolkarę.
+- Uwolnienie się Olgierta z kamiennej klątwy.
 - Heroiczne poświęcenie Amary i jej śmierć.
 - Porwanie Milo przez demona.
 - Odejście Rohliana z drużyny.
-- Odzyskanie mapy Chult i lunety Amary.
 - Pozostawienie skamieniałego Ślimaka pod opieką Zolkary.
 - Poznanie lokalizacji Omu.
 - Konflikt z przywódczynią Kir Sabal.
-- Dołączenie Roberto, Elary i Harkala.
+- Dołączenie Roberto, Elary i Hacrala.
 - Przygotowania do ponownej wyprawy do Ognistego Palucha.
-
-Myślę, że ten tekst bardzo dobrze zamyka pierwszy etap Waszej kampanii. To moment, w którym praktycznie cała oryginalna drużyna przestała istnieć, a jednocześnie rozpoczął się nowy rozdział z zupełnie innym składem i nowymi celami.
