@@ -34,62 +34,34 @@ Tak zakończyła się jedna z najbardziej tragicznych sesji całej kampanii. Str
 
 Przed nami kolejna wyprawa do Ognistego Palucha. Tym razem wyruszą Arnul, Storsark, Olgiert, Roberto, Elara oraz Hacral.
 
-  
-
 Ważne NPC
 
 Królowa Zolkara
-
 - Została ostatecznie uwolniona spod wpływu demona.
 - Wskazała drużynie położenie starożytnego Omu.
 - Zgodziła się zaopiekować skamieniałym Ślimakiem.
 
 Olgiert
-
 - Kleryk uwolniony z kamiennej klątwy podczas walki z demonem.
 - Dołączył do drużyny po wydarzeniach w Nyanzallore.
 
 Roberto
-
 - Ekscentryczny tabaxi i druid.
 - Kolekcjoner zapachów.
 - Dołączył do drużyny przed kolejną wyprawą.
 
 Elara
-
 - Siostra Roberto.
 - Cicha druidka komunikująca się głównie telepatycznie.
 
 Hacral
-
 - Drowi bard.
 - Pomógł załagodzić konflikt w Kir Sabal.
 - Dołączył do drużyny.
 
 Przywódczyni Kir Sabal
-
 - Rozgniewana niepowodzeniem drużyny.
 - Dała nam ostatnią szansę na uratowanie księżniczki.
-
-  
-
-Ważne Lokacje
-
-Ogrody Nyanzallore
-
-- Miejsce ostatecznej walki z demonem.
-- Śmierć Amary i porwanie Milo.
-
-Kir Sabal
-
-- Powrót drużyny po wydarzeniach w ogrodach.
-- Dołączenie nowych bohaterów.
-
-Omu
-
-- Po raz pierwszy poznaliśmy jego dokładne położenie.
-
-  
 
 Najważniejsze wydarzenia
 
