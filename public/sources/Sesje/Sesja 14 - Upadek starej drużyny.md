@@ -32,7 +32,7 @@ Rano mieliśmy okazję lepiej poznać nowych towarzyszy. Roberto już podczas pi
 
 Tak zakończyła się jedna z najbardziej tragicznych sesji całej kampanii. Straciliśmy Amarę, Milo został porwany przez demona, Rohlian odszedł własną drogą, a Ślimak pozostał skamieniały pod opieką Królowej Zolkary. Jednocześnie poznaliśmy położenie legendarnego Omu i zyskaliśmy nowych sprzymierzeńców.
 
-Przed nami kolejna wyprawa do Ognistego Palucha. Tym razem wyruszą Arnul, Storsark, Olgiert, Roberto, Elara oraz Hacral.
+Przed nami kolejna wyprawa do Ognistego Palucha.
 
 Ważne NPC
 
