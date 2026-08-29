@@ -7,7 +7,7 @@ Data: 24-04-2026
 Wyruszyliśmy "pożyczonym" statkiem do [[Needle's Bones]]. Wypływając z portu popłynęliśmy na północ aby wzdłuż wybrzeża dopłytnąć do zatoki "Kitchers Inlet".
 
 Po drodze zaatakowali nas piraci. Po drugiej stronie wyspy zobaczyliśmy ogromy statek Drakkar (prawdopodobnie olbrzymów). Zostawiliśmy go w spokoju. 
-Dopływając do zatoki Milo zobaczył wielkiego dinozaura z piórami na głowie (Jabal powiedział, że to Król Piór - potrafi się teleportować) - popatrzył się na Milo.
+Dopływając do zatoki Milo zobaczył wielkiego dinozaura z piórami na głowie (Jabal powiedział, że to Król Piór - potrafi się teleportować i jak na kogoś spojrzy to jest już z nim powiązany) - popatrzył się na Milo.
 
 Wakanda powiedział nam, że Jabal należy do Mafii (kierują ją na Chult?) - Zenthanrimów.
 Amara dobrze dogaduje się z Wakandą.
