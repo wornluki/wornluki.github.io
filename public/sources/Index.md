@@ -15,7 +15,7 @@
 [[Sesja 14 - Upadek starej drużyny]]
 [[Sesja 15 - Powrót do Palucha i przygody z kotami]]
 [[Sesja 16 – Chaos w Hrakhammar]]
-[[Sesja 17 – TBD]]
+[[Sesja 17 – Grill u Skamosa]]
 [[Sesja 18 – Cena decyzji]]
 
 ## Miejsca
