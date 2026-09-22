@@ -17,6 +17,7 @@
 [[Sesja 16 – Chaos w Hrakhammar]]
 [[Sesja 17 – Grill u Skamosa]]
 [[Sesja 18 – Cena decyzji]]
+[[Sesja 19 - Nowy przewodnik i zupa z Trolii]]
 
 ## Miejsca
 [[Chult]]
