@@ -18,6 +18,7 @@
 [[Sesja 17 – Grill u Skamosa]]
 [[Sesja 18 – Cena decyzji]]
 [[Sesja 19 - Nowy przewodnik i zupa z Trolii]]
+[[Sesja 20 - Dwie strony tej samej historii]]
 
 ## Miejsca
 [[Chult]]
