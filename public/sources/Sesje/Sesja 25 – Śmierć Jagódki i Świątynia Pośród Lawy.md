@@ -1,6 +1,6 @@
 Data: 23-10-2026
 
-Po dotarciu do Omu kontynuowaliśmy poszukiwania pozostałych tabliczek potrzebnych do otwarcia grobowca. Wiedzieliśmy już, że pięć z siedmiu znajduje się w naszych rękach, a przynajmniej dwie kolejne mogą być w posiadaniu Yuan-ti. Do sprawdzenia pozostały nam jeszcze dwie świątynie. Tym razem obraliśmy za cel miejsce położone na niewielkiej wyspie otoczonej rozległym jeziorem lawy, gdzie pośród ognistego krajobrazu wznosiła się kolejna ze świątyń Omu.
+Kontynuowaliśmy poszukiwania pozostałych tabliczek potrzebnych do otwarcia grobowca. Wiedzieliśmy już, że pięć z siedmiu znajduje się w naszych rękach, a przynajmniej dwie kolejne mogą być w posiadaniu Yuan-ti. Do sprawdzenia pozostały nam jeszcze dwie świątynie. Tym razem obraliśmy za cel miejsce położone na niewielkiej wyspie otoczonej rozległym jeziorem lawy, gdzie pośród ognistego krajobrazu wznosiła się kolejna ze świątyń Omu.
 
 W drodze do celu musieliśmy przejść przez drewnianą kładkę łączącą dwie części miasta. Nie zdążyliśmy jednak spokojnie pokonać przeprawy, ponieważ nagle ktoś zaczął do nas strzelać. Nieznany napastnik zaskoczył nas kompletnie, a jego ataki okazały się wyjątkowo dotkliwe. Walka była dla nas bardzo niekorzystna i ostatecznie Jagódka padł. Nasza mała wróżka zginęła.
 
