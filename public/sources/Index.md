@@ -19,10 +19,14 @@
 [[Sesja 18 – Cena decyzji]]
 [[Sesja 19 - Nowy przewodnik i zupa z Trolii]]
 [[Sesja 20 - Dwie strony tej samej historii]]
-...
+[[Sesja 21 – Śmierć w Sercu Ubtao]]
+[[Sesja 22 – Tajemnice Zigguratu Orlunga]]
+Wyjazd...
 [[Sesja 25 – Śmierć Jagódki i Świątynia Pośród Lawy]]
 [[Sesja 26 – Układy z Liszem i Ostatnia Zemsta]]
 [[Sesja 27 – Intrygi Nocnej Żmii]]
+
+[[Sesja 29 - Grobowiec, Trzy Skrzynie i Nieproszony Gość]]
 
 ## Miejsca
 [[Chult]]
